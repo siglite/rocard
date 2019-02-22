@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  RewriteRule ^.well-known/carddav$  /card.php  [R,L]
+</IfModule>
