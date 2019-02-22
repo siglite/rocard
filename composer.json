@@ -1,0 +1,14 @@
+{
+    "name": "siglite/rocard",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shun Ishihara",
+            "email": "sig@siglite.net"
+        }
+    ],
+    "require": {
+        "sabre/dav": "~3.2.0"
+    }
+}
